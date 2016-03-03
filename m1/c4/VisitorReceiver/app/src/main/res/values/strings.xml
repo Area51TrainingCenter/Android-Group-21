@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Visitor Receiver</string>
+
+    <string name="new_visitor">¡Hola %s!</string>
+</resources>

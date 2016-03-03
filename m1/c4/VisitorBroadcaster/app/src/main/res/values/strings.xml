@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visitor Registrator</string>
+
+    <string name="hint_visitor_name">Nombre completo</string>
+    <string name="register_visitor">Enviar broadcast</string>
+    <string name="instructions">Bienvenido, ingresa tu nombre</string>
+</resources>

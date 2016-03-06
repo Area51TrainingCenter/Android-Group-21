@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Service</string>
+
+    <string name="button_start_service">Iniciar Servicio</string>
+    <string name="button_stop_service">Detener Servicio</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="service_message">¡Hola %s, el servicio se ha iniciado!</string>
+    <string name="service_foreground_notification_title">Mi Servicio</string>
+    <string name="service_foreground_notification_content">¡El servicio está iniciado!</string>
+    <string name="instructions">Ingresa tu nombre y presiona el botón para iniciar servicio.</string>
+</resources>

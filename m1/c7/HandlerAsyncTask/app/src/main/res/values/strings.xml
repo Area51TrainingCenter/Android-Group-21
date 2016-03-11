@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Handler Async Task</string>
+
+    <string name="execute_long_task">Ejecutar Tarea</string>
+    <string name="instructions">Presiona el botón para ejecutar la tarea.</string>
+    <string name="progress_title">Un momento</string>
+    <string name="progress_content">Ejecutando&#8230;</string>
+</resources>

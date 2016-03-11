@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Threads Test</string>
+
+    <string name="main_thread">Main Thread/UI Thread</string>
+    <string name="worker_thread">Worker Thread</string>
+    <string name="async_task">AsyncTask</string>
+    <string name="instructions">Presiona los botones para probar los diferentes modos de ejecución.</string>
+    <string name="progress_title">Un momento</string>
+    <string name="progress_content">Procesando datos&#8230;</string>
+</resources>

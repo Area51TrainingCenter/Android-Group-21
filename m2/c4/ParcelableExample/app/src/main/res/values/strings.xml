@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcelable Example</string>
+    <string name="instructions">Presiona el botón para mostrar la información de la persona.</string>
+    <string name="show_person">Mostrar Persona</string>
+</resources>

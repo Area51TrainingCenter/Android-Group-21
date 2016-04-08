@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences Test</string>
+
+    <string name="button_register">Registrar</string>
+    <string name="first_visitor">¡Eres el primer visitante!</string>
+    <string name="last_visitor">El último visitante fue %s.</string>
+    <string name="welcome">¡Hola %s!</string>
+    <string name="hint_name">Nombre completo.</string>
+</resources>

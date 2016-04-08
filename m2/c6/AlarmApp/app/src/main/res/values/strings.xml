@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alarm App</string>
+
+    <string name="instructions">Ingresa el tiempo en segundos que debe transcurrir para que se dispare la alarma.</string>
+    <string name="hint_seconds">Tiempo en segundos.</string>
+    <string name="program_alarm">Programar Alarma</string>
+    <string name="alarm_programmed">Alarma Programada.</string>
+    <string name="number_error">¡Debes ingresar valores numéricos!</string>
+    <string name="alarm_triggered">¡Alarma Lanzada!</string>
+</resources>

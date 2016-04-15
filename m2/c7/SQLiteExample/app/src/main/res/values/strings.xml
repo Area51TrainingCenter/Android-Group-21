@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite Example</string>
+
+    <string name="add_note">Agregar Nota</string>
+</resources>
